@@ -1,0 +1,13 @@
+.meals{
+    display: grid;
+    grid-template-columns:repeat(5,1fr);
+    padding: 10px;
+    
+    
+}
+.meal{
+    border: 2px solid black;
+    position: relative;
+    margin:20px auto;
+    padding: 20px 40px;
+}
